@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gmkin\\Documents\\Coding\\school-work\\C#\\PROG6221_Part_1\\CyberGuard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A50A8C9-283B-C406-A4EF-7157986D0795}|CyberGuard.csproj|c:\\users\\gmkin\\documents\\coding\\school-work\\c#\\prog6221_part_1\\cyberguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A50A8C9-283B-C406-A4EF-7157986D0795}|CyberGuard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gmkin\\Documents\\Coding\\school-work\\C#\\PROG6221_Part_1\\CyberGuard\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gmkin\\Documents\\Coding\\school-work\\C#\\PROG6221_Part_1\\CyberGuard\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T15:56:18.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
